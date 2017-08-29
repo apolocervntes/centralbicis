@@ -1,0 +1,35 @@
+img{
+    max-width: 100%
+}
+.quitar-float {
+    float: none;
+}
+.espacio-arriba{
+    margin-top: 100px;
+}
+body{ background-color: white;
+
+}
+.poiret{
+    font-family: 'Poiret One', cursive;
+}
+.berkshire{
+    font-family: 'Berkshire Swash', cursive;
+}
+.satisfy{font-family: 'Satisfy', cursive;
+}
+.letrande{
+    font-size: 3em;
+}
+.azul{
+    color: #03202A;
+}
+.beige{
+    color: #BF8E5C;
+}
+a{
+    color: #074C63;
+}
+.espacio-dch{
+    margin-right: 25px;
+}
