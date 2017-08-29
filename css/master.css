@@ -16,7 +16,8 @@ body{ background-color: white;
 .berkshire{
     font-family: 'Berkshire Swash', cursive;
 }
-.satisfy{font-family: 'Satisfy', cursive;
+.satisfy
+{font-family: 'Satisfy', cursive;
 }
 .letrande{
     font-size: 3em;
@@ -32,4 +33,17 @@ a{
 }
 .espacio-dch{
     margin-right: 25px;
+}
+.centro{
+    align-items: center;
+}
+.abajo{
+    margin-bottom: 1em;
+}
+.bb{
+    font-family: 'Lobster', cursive;
+}
+font-family: 'Shrikhand', cursive;
+.body{
+    background-color: #BF8E5C;
 }
