@@ -13,6 +13,9 @@ body{ background-color: white;
 .satisfy
 {font-family: 'Satisfy', cursive;
 }
+.maximo{
+    max-width: 100%;
+}
 .lista li{
     list-style-type: none;
 }
