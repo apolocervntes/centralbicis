@@ -47,3 +47,14 @@ span {
     width: 20rem;
     line-height: 1em;
 }
+.blur{
+  background-color: #333d2977;
+     -webkit-backdrop-filter: blur(10px);
+     backdrop-filter: blur(10px);
+     width: 100vw;
+     height: 100vh;
+}
+
+.cover-container {
+  max-width: 42em;
+}
