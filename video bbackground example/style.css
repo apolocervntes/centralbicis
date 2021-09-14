@@ -1,0 +1,32 @@
+video{
+    object-fit: cover;
+    width:100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.viewport-header{
+    position: relative;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 4rem;
+    flex-direction: column;
+}
+.hero-logo{
+display: flex;
+flex-direction: row;
+}
+h1{
+    text-transform: uppercase;
+    color: #ffffff;
+    font-family: 'Syncopate', sans-serif;
+}
+span {
+    display: block;
+    font-size: 10vw;
+    letter-spacing: -1.3vw;
+  }
